@@ -1,0 +1,8 @@
+C:\Git\blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Git\blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Git\blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Git\blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Git\blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Git\blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Git\blackjack\Blackjack\bin\Debug\Blackjack.Classes.dll
+C:\Git\blackjack\Blackjack\bin\Debug\Blackjack.Classes.pdb

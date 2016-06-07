@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack", "Blackjack.csproj", "{6708A750-B9AD-4222-B680-5BA0F80F130F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Tests", "..\Blackjack.Tests\Blackjack.Tests.csproj", "{4C95FC4C-9BA1-4204-B7D1-77ECF3105C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Classes", "Blackjack.Classes\Blackjack.Classes.csproj", "{35B97A45-773D-40CF-A322-69BDCEEA54F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6708A750-B9AD-4222-B680-5BA0F80F130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6708A750-B9AD-4222-B680-5BA0F80F130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6708A750-B9AD-4222-B680-5BA0F80F130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6708A750-B9AD-4222-B680-5BA0F80F130F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C95FC4C-9BA1-4204-B7D1-77ECF3105C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C95FC4C-9BA1-4204-B7D1-77ECF3105C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C95FC4C-9BA1-4204-B7D1-77ECF3105C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C95FC4C-9BA1-4204-B7D1-77ECF3105C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B97A45-773D-40CF-A322-69BDCEEA54F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B97A45-773D-40CF-A322-69BDCEEA54F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B97A45-773D-40CF-A322-69BDCEEA54F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B97A45-773D-40CF-A322-69BDCEEA54F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
